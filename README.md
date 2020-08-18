@@ -1,4 +1,4 @@
-https://determined-lalande-d53478.netlify.app/
+https://tender-ptolemy-4b9133.netlify.app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
